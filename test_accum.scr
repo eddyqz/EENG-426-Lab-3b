@@ -1,0 +1,42 @@
+watch L
+watch C
+watch R
+status X
+
+set L 00000000
+set C 0
+cycle
+
+set L 00000001
+set C 0
+cycle
+
+set L 00000000
+set C 0
+cycle
+
+set L 11111111
+set C 0
+cycle
+
+set L 11111111
+set C 1
+cycle
+
+set L 00000000
+set C 1
+cycle
+
+set L 00000001
+set C 1
+cycle
+
+set L 00000111
+set C 1
+cycle
+
+set L 00101000
+set C 0
+cycle
+
+

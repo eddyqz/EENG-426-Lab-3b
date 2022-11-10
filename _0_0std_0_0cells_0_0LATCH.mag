@@ -1,0 +1,245 @@
+magic
+tech sky130l
+timestamp 1668056734
+<< ndiffusion >>
+rect 8 15 13 16
+rect 8 12 9 15
+rect 12 12 13 15
+rect 8 6 13 12
+rect 15 6 20 16
+rect 22 15 27 16
+rect 22 12 23 15
+rect 26 12 27 15
+rect 22 6 27 12
+rect 34 10 39 16
+rect 34 7 35 10
+rect 38 7 39 10
+rect 34 6 39 7
+rect 41 6 48 16
+rect 50 6 67 16
+rect 69 6 76 16
+rect 78 10 83 16
+rect 78 7 79 10
+rect 82 7 83 10
+rect 78 6 83 7
+<< ndc >>
+rect 9 12 12 15
+rect 23 12 26 15
+rect 35 7 38 10
+rect 79 7 82 10
+<< ntransistor >>
+rect 13 6 15 16
+rect 20 6 22 16
+rect 39 6 41 16
+rect 48 6 50 16
+rect 67 6 69 16
+rect 76 6 78 16
+<< pdiffusion >>
+rect 8 34 13 43
+rect 8 31 9 34
+rect 12 31 13 34
+rect 8 23 13 31
+rect 15 23 20 43
+rect 22 42 27 43
+rect 22 39 23 42
+rect 26 39 27 42
+rect 22 23 27 39
+rect 44 35 48 43
+rect 34 34 39 35
+rect 34 31 35 34
+rect 38 31 39 34
+rect 34 23 39 31
+rect 41 23 48 35
+rect 50 42 55 43
+rect 50 39 51 42
+rect 54 39 55 42
+rect 50 23 55 39
+rect 72 35 76 43
+rect 62 34 67 35
+rect 62 31 63 34
+rect 66 31 67 34
+rect 62 23 67 31
+rect 69 23 76 35
+rect 78 39 83 43
+rect 78 36 79 39
+rect 82 36 83 39
+rect 78 23 83 36
+<< pdc >>
+rect 9 31 12 34
+rect 23 39 26 42
+rect 35 31 38 34
+rect 51 39 54 42
+rect 63 31 66 34
+rect 79 36 82 39
+<< ptransistor >>
+rect 13 23 15 43
+rect 20 23 22 43
+rect 39 23 41 35
+rect 48 23 50 43
+rect 67 23 69 35
+rect 76 23 78 43
+<< polysilicon >>
+rect 13 43 15 45
+rect 20 43 22 45
+rect 48 43 50 45
+rect 76 43 78 45
+rect 39 35 41 37
+rect 67 35 69 37
+rect 13 16 15 23
+rect 20 16 22 23
+rect 39 16 41 23
+rect 48 16 50 23
+rect 67 16 69 23
+rect 76 16 78 23
+rect 13 4 15 6
+rect 20 4 22 6
+rect 39 4 41 6
+rect 48 4 50 6
+rect 67 4 69 6
+rect 76 4 78 6
+<< m1 >>
+rect 8 48 12 52
+rect 56 48 60 52
+rect 63 51 90 54
+rect 22 47 27 48
+rect 22 44 23 47
+rect 26 44 27 47
+rect 32 44 36 48
+rect 22 42 27 44
+rect 22 39 23 42
+rect 26 39 27 42
+rect 22 38 27 39
+rect 50 42 55 43
+rect 63 42 66 51
+rect 80 44 84 48
+rect 50 39 51 42
+rect 54 39 66 42
+rect 87 40 90 51
+rect 78 39 90 40
+rect 50 38 55 39
+rect 78 36 79 39
+rect 82 37 90 39
+rect 82 36 83 37
+rect 78 35 83 36
+rect 2 34 13 35
+rect 2 31 9 34
+rect 12 31 13 34
+rect 2 30 13 31
+rect 29 34 39 35
+rect 29 31 30 34
+rect 33 31 35 34
+rect 38 31 39 34
+rect 29 30 39 31
+rect 57 34 67 35
+rect 57 31 58 34
+rect 61 31 63 34
+rect 66 31 67 34
+rect 57 30 67 31
+rect 2 16 5 30
+rect 8 24 79 27
+rect 27 18 32 19
+rect 27 17 28 18
+rect 24 16 28 17
+rect 2 15 13 16
+rect 2 12 9 15
+rect 12 12 13 15
+rect 2 11 13 12
+rect 22 15 28 16
+rect 31 15 32 18
+rect 22 12 23 15
+rect 26 14 32 15
+rect 26 12 27 14
+rect 22 11 27 12
+rect 34 10 39 11
+rect 8 4 12 8
+rect 34 7 35 10
+rect 38 7 39 10
+rect 34 6 39 7
+rect 78 10 83 11
+rect 78 7 79 10
+rect 82 7 83 10
+rect 78 6 83 7
+rect 34 2 37 6
+rect 78 2 81 6
+rect 34 -1 81 2
+<< m2c >>
+rect 23 44 26 47
+rect 30 31 33 34
+rect 58 31 61 34
+rect 28 15 31 18
+<< m2 >>
+rect 22 47 27 48
+rect 22 44 23 47
+rect 26 44 27 47
+rect 22 43 27 44
+rect 24 21 27 43
+rect 29 34 62 35
+rect 29 31 30 34
+rect 33 32 58 34
+rect 33 31 34 32
+rect 29 30 34 31
+rect 57 31 58 32
+rect 61 31 62 34
+rect 57 30 62 31
+rect 24 18 32 21
+rect 27 15 28 18
+rect 31 15 32 18
+rect 27 14 32 15
+<< labels >>
+rlabel m1 s 32 44 36 48 6 D
+port 2 nsew signal input
+rlabel m1 s 8 4 12 8 6 Q
+port 3 nsew signal output
+rlabel m1 s 80 44 84 48 6 GND
+port 5 nsew ground input
+rlabel ndiffusion 23 7 23 7 3 _clk
+rlabel pdiffusion 23 24 23 24 3 _clk
+rlabel polysilicon 21 17 21 17 3 CLK
+rlabel polysilicon 21 22 21 22 3 CLK
+rlabel ndiffusion 16 7 16 7 3 GND
+rlabel pdiffusion 16 24 16 24 3 Vdd
+rlabel polysilicon 14 17 14 17 3 _q
+rlabel polysilicon 14 22 14 22 3 _q
+rlabel ndiffusion 9 7 9 7 3 Q
+rlabel pdiffusion 9 24 9 24 3 Q
+rlabel pdiffusion 51 24 51 24 3 #7
+rlabel ndiffusion 51 7 51 7 3 #10
+rlabel polysilicon 49 17 49 17 3 _clk
+rlabel polysilicon 49 22 49 22 3 _clk
+rlabel ndiffusion 42 7 42 7 3 _q
+rlabel pdiffusion 42 24 42 24 3 _q
+rlabel polysilicon 40 17 40 17 3 CLK
+rlabel polysilicon 40 22 40 22 3 CLK
+rlabel ndiffusion 35 7 35 7 3 #5
+rlabel pdiffusion 35 24 35 24 3 #8
+rlabel pdiffusion 79 24 79 24 3 #7
+rlabel ndiffusion 79 7 79 7 3 #5
+rlabel polysilicon 77 17 77 17 3 D
+rlabel polysilicon 77 22 77 22 3 D
+rlabel ndiffusion 70 7 70 7 3 GND
+rlabel pdiffusion 70 24 70 24 3 Vdd
+rlabel polysilicon 68 17 68 17 3 Q
+rlabel polysilicon 68 22 68 22 3 Q
+rlabel ndiffusion 63 7 63 7 3 #10
+rlabel pdiffusion 63 24 63 24 3 #8
+rlabel m1 81 45 81 45 3 GND
+port 5 e
+rlabel m1 33 45 33 45 3 D
+port 2 e
+rlabel m1 9 5 9 5 3 Q
+port 3 e
+rlabel m1 s 56 48 60 52 6 Vdd
+port 4 nsew power input
+rlabel m1 57 49 57 49 3 Vdd
+port 4 e
+rlabel m1 s 8 48 12 52 6 CLK
+port 1 nsew signal input
+rlabel m1 9 49 9 49 3 CLK
+port 1 e
+<< properties >>
+string LEFclass CORE
+string LEFsite CoreSite
+string FIXED_BBOX 0 0 88 52
+string LEFsymmetry X Y
+string LEFview TRUE
+<< end >>

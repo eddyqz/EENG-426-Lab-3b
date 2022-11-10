@@ -1,0 +1,30 @@
+magic
+tech sky130l
+timestamp 1667968642
+<< m1 >>
+rect 8 40 12 44
+rect 24 40 28 44
+rect 40 40 44 44
+rect 56 40 60 44
+rect 72 40 76 44
+rect 8 4 12 8
+<< labels >>
+rlabel m1 s 8 40 12 44 6 A
+port 1 nsew signal input
+rlabel m1 s 24 40 28 44 6 B
+port 2 nsew signal input
+rlabel m1 s 40 40 44 44 6 S
+port 3 nsew signal input
+rlabel m1 s 8 4 12 8 6 Y
+port 4 nsew signal output
+rlabel m1 s 56 40 60 44 6 Vdd
+port 5 nsew power input
+rlabel m1 s 72 40 76 44 6 GND
+port 6 nsew ground input
+<< properties >>
+string LEFclass CORE
+string LEFsite CoreSite
+string FIXED_BBOX 0 0 80 48
+string LEFsymmetry X Y
+string LEFview TRUE
+<< end >>
